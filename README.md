@@ -58,8 +58,10 @@ streamlit run app.py
 * Differential privacy integration
 * API deployment
 * Real-time healthcare data pipelines
+  
 
-
+## prototype link
+   https://www.figma.com/make/oyODSZBcZJGF7UKpEtRLdz/Healthcare-Data-Dashboard-Design?t=bCNhLxzDSOMRfR8B-1
 
 ##  Author
 
